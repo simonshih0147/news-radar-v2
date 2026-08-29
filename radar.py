@@ -8,7 +8,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 
 # 你關注的主題。換成上週選定的那個。
-KEYWORD = "颱風"
+KEYWORD = "台灣股市"
 
 # 一則訊息最多列幾條新聞，減少訊息過多。
 MAX_ITEMS = 5
